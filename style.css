@@ -10,7 +10,7 @@
   *{color:#fff;}
         body {
           overflow: hidden;
-            background: url('https://source.unsplash.com/1920x1080/?milkway') no-repeat fixed;
+            background-image: url("https://images.unsplash.com/photo-1515825838458-f2a94b20105a?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
             background-size: cover;
             animation: sparkleBackground 10s infinite linear;
             font-family: Arial, sans-serif;
